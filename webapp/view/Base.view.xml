@@ -3,10 +3,7 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m"
 >
-    <Page
-        id="page"
-        title=""
-    >
+    
         <HBox
             class="colorBackground"
             justifyContent="Center"
@@ -14,9 +11,10 @@
             height="100%"
         >
             <Title
+                class="customTitleHeight"
                 text="CI/CD Sample"
                 textAlign="Center"
+                
             />
         </HBox>
-    </Page>
 </mvc:View>

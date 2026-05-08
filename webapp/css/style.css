@@ -1,5 +1,13 @@
 /* Enter your custom styles here */
 
 .colorBackground{
-    background-color: yellow !important;
+    background-color: pink !important;
+}
+
+.customTitleHeight {
+    height: 45cm;
+    line-height: 45cm; /* centers text vertically inside */
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
 }
