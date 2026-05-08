@@ -1,13 +1,22 @@
-<mvc:View controllerName="cicd.sample.controller.Base"
+<mvc:View
+    controllerName="cicd.sample.controller.Base"
     xmlns:mvc="sap.ui.core.mvc"
-    xmlns="sap.m">
-    <Page id="page" title="">
-        <HBox 
-justifyContent="Center"
-                alignItems="Center"
-                height="100%"
+    xmlns="sap.m"
 >
-            <Title text="CI/CD Sample" textAlign="Center"/>
+    <Page
+        id="page"
+        title=""
+    >
+        <HBox
+            class="colorBackground"
+            justifyContent="Center"
+            alignItems="Center"
+            height="100%"
+        >
+            <Title
+                text="CI/CD Sample"
+                textAlign="Center"
+            />
         </HBox>
     </Page>
 </mvc:View>
