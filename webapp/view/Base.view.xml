@@ -5,7 +5,6 @@
 >
     
         <HBox
-            class="colorBackground"
             justifyContent="Center"
             alignItems="Center"
             height="100%"
