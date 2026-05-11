@@ -11,7 +11,7 @@
         >
             <Title
                 class="customTitleHeight"
-                text="CI/CD Sample"
+                text="CI/CD Samples"
                 textAlign="Center"
                 
             />
